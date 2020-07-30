@@ -1,0 +1,27 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "game",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexsisMCB/jest-another-RPG.git"
+  },
+  "keywords": [
+    "jest",
+    "rpg",
+    "game"
+  ],
+  "author": "Alexsis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexsisMCB/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/AlexsisMCB/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.2.1"
+  }
+}
