@@ -23,5 +23,8 @@
   "homepage": "https://github.com/AlexsisMCB/jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^26.2.1"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3"
   }
 }
